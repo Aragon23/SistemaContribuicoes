@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+body {
+	margin: 0;
+	font-family: "Roboto Condensed";
+}
+
+h1 {
+    margin: auto;
+    vertical-align: center;
+	text-align: center;
+	border: 1px solid #000;
+	background: WhiteSmoke;
+    height: 50px;
+    padding-top: 10px;
+	margin-bottom: 3%;
+}
+
+p {
+    width: 48.9%;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 0 0 2px 2px #ff0000;
+}
+
+table {
+	width: 50%;
+	margin: auto;
+	border: 1px solid black;
+	border-spacing: 1px;
+}
+
+td, th {
+    border: 1px solid #2b0238;
+}
+
+th {
+	background: #00DD00;
+	color: #fff;
+}
+
+td {
+	padding-left: 10px;
+	background: white;
+}
+
+legend {
+	border: 1px solid #2b0238;
+	background: #fff;
+	padding: 3px 10px;
+}
+
+.btn-alert {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    margin-left: 5px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+          touch-action: manipulation;
+      cursor: pointer;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #ffa636;
+    border-color: #ff8c0f; 
+}
+
+.btn-danger {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    margin-left: 5px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+          touch-action: manipulation;
+      cursor: pointer;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #ff0000;
+    border-color: #ff8c0f; 
+}
+
+.btn-success {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    margin-left: 64%;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+          touch-action: manipulation;
+      cursor: pointer;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #008000;
+    border-color: #008000; 
+}
+
+
+
+
+

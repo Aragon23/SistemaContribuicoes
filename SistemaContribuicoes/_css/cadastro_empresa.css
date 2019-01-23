@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+body {
+	margin: 0;
+	font-family: "Roboto Condensed";
+}
+
+label.alinha {
+    font-size: 16px;
+	display: inline-block;
+    margin-left: 1.5%;
+	width: 20.75%;
+	margin-top: 1%;
+	text-align: right;
+	padding-right: 0.75%;
+}
+
+input[type="text"] {
+	border: 1px solid #2b0238;
+	font-family: "Roboto Condensed";
+    width: 55%;
+	font-size: 17px;
+}
+
+button.cadastro {
+	width: 30%;
+	height: 40px;
+	font-family: "Roboto Condensed";
+	font-weight: bold;
+	font-size: 16px;
+	display: block;
+	margin: auto;
+	margin-top: 7.5%;
+}
+
+fieldset {
+	width: 38%;
+    height: 150px;
+	margin: 30px auto;
+	padding: 2%;
+	border: 1px solid #000;
+	background: #f1f1f1;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
+
+legend {
+	border: 1px solid #2b0238;
+	background: #fff;
+	padding: 3px 10px;
+}
+
+
+
